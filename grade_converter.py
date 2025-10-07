@@ -1,8 +1,8 @@
 # FILE NAME - grade_converter.py
 
-# NAME: 
-# DATE: 
-# BRIEF DESCRIPTION:  
+# NAME: Taylor Sperduti
+# DATE: 10/7/25
+# BRIEF DESCRIPTION: This will take a number grade and convert it to a letter grade 
 
 
 
@@ -85,7 +85,7 @@ D
 1. What is something you would tell a future student to be careful about when
    doing this lab?
 
-
+Be careful about the formatting, it gets really confusing when you don't do it properly
 
 
 
